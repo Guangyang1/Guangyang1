@@ -1,10 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
 </head>
 <body>
 <div id="layout-content">
@@ -12,7 +5,7 @@
 <h1>杨光 (Guang Yang)</h1>
 </div>
 <table class="imgtable"><tr><td>
-<a href="https://xuaikun.github.io/"><img src="picture/Aikun_Xu.jpg" alt="alt text" width="150px%"  /></a>&nbsp;</td>
+<img src="photo.JPG" width="150px"  /></a>&nbsp;</td>
 <td align="left"><p>男，1981年生，党员，硕士生导师，讲师。博士毕业于哈尔滨工程大学水声工程学院水声工程专业，CSC全国海选新加坡南洋理工大学博士后，CSC国家公派西澳大学联培博士。<br />
 手机: 13969816066  <br />
 邮箱: edit231@163.com   <br />
