@@ -69,48 +69,48 @@
 </ul>
 <h2>论文代表作</h2>
 <ul>
-<li><p>[1].	Guang Yang, Qinghua Guo, Zhengchang Qin, Defeng Huang, Qi Yan. “Belief Propagation Based Low-complexity Channel Estimation and Detection for Underwater Acoustic Communications with Moving Transceivers [J],” IEEE Journal of Oceanic Engineering, accepted, 2021. 海洋工程top1顶刊. (SCI, JCR-1区) </p>
+  <li><p>[1].	<b>Guang Yang</b>, Qinghua Guo, Zhengchang Qin, Defeng Huang, Qi Yan. “Belief Propagation Based Low-complexity Channel Estimation and Detection for Underwater Acoustic Communications with Moving Transceivers [J],” IEEE Journal of Oceanic Engineering, accepted, 2021. 海洋工程top1顶刊. (SCI, JCR-1区) </p>
 </li>
 </ul>
  <ul>
-<li><p>[2].	Guang Yang, Qinghua Guo, Hanxue Ding, Qi Yan, Defeng Huang. “Joint message-passing-based bidirectional channel estimation and equalization with superimposed training for underwater acoustic communications [J],” IEEE Journal of Oceanic Engineering, vol.46, no.4, pp. 1463-1476, 2021. 海洋工程top1顶刊. (SCI: 000706820200029, JCR-1区)  </p>
+<li><p>[2].	<b>Guang Yang</b>, Qinghua Guo, Hanxue Ding, Qi Yan, Defeng Huang. “Joint message-passing-based bidirectional channel estimation and equalization with superimposed training for underwater acoustic communications [J],” IEEE Journal of Oceanic Engineering, vol.46, no.4, pp. 1463-1476, 2021. 海洋工程top1顶刊. (SCI: 000706820200029, JCR-1区)  </p>
 </li>
 </ul>
  <ul>
-<li><p>[3].	杨光, 丁寒雪等. 基于叠加训练序列和低复杂度频域Turbo均衡的时变水声信道估计和均衡. 电子与信息学报[J]. 43(3): 850-856, 2021. (EI: 20211310142059).  JEIT 早知道丨2021-6-4 | 周五 | 编辑头条推荐. </p>
+<li><p>[3].	<b>杨光</b>, 丁寒雪等. 基于叠加训练序列和低复杂度频域Turbo均衡的时变水声信道估计和均衡. 电子与信息学报[J]. 43(3): 850-856, 2021. (EI: 20211310142059).  JEIT 早知道丨2021-6-4 | 周五 | 编辑头条推荐. </p>
 </li>
 </ul>
  <ul>
-<li><p>[4].	Guang Yang, Liang Wang, Peiyue Qiao, Junyan Liang, Tong Chen. “Joint multiple turbo equalization for harsh time-varying underwater acoustic channels [J],” IEEE Access, 9, 82364-82372, 2021. (SCI: 000674083600001, JCR-1区)   </p>
+<li><p>[4].	<b>Guang Yang</b>, Liang Wang, Peiyue Qiao, Junyan Liang, Tong Chen. “Joint multiple turbo equalization for harsh time-varying underwater acoustic channels [J],” IEEE Access, 9, 82364-82372, 2021. (SCI: 000674083600001, JCR-1区)   </p>
 </li>
 </ul>
  <ul>
-<li><p>[5].	Guang Yang, Tailian Liu, Hanxue Ding, Qi Yan, Xinjie Wang. “Joint channel estimation and generalized approximate messaging passing based equalization for underwater acoustic communications [J],” IEEE Access, 9, 56757-56764, 2021. (SCI: 000641934300001, JCR-1区)   </p>
+<li><p>[5].	<b>Guang Yang</b>, Tailian Liu, Hanxue Ding, Qi Yan, Xinjie Wang. “Joint channel estimation and generalized approximate messaging passing based equalization for underwater acoustic communications [J],” IEEE Access, 9, 56757-56764, 2021. (SCI: 000641934300001, JCR-1区)   </p>
 </li>
 </ul>
   <ul>
-<li><p>[6].	Guang Yang*, Jingwei Yin, Defeng Huang, Lu Jin, Huanling Zhou. “A Kalman filter-based blind adaptive multi-user detection algorithm for underwater acoustic networks [J],” IEEE Sensors Journal, vol.16, no.11, pp. 4023-4033, 2016. (SCI: 000375563700005, JCR-1区)    </p>
+<li><p>[6].	<b>Guang Yang*</b>, Jingwei Yin, Defeng Huang, Lu Jin, Huanling Zhou. “A Kalman filter-based blind adaptive multi-user detection algorithm for underwater acoustic networks [J],” IEEE Sensors Journal, vol.16, no.11, pp. 4023-4033, 2016. (SCI: 000375563700005, JCR-1区)    </p>
 </li>
 </ul>
 <ul>
-<li><p>[7].	Guang Yang, Qinghua Guo, Defeng Huang, Jingwei Yin, Maochun Zheng. “Kalman Filter-Based Chip Differential Blind Adaptive Multiuser Detection for Variably Mobile Asynchronous Underwater Multiuser Communications [J],” IEEE Access, 6, 49646-49653, 2018. (SCI: 000446493200001, JCR-1区)     </p>
+<li><p>[7].	<b>Guang Yang</b>, Qinghua Guo, Defeng Huang, Jingwei Yin, Maochun Zheng. “Kalman Filter-Based Chip Differential Blind Adaptive Multiuser Detection for Variably Mobile Asynchronous Underwater Multiuser Communications [J],” IEEE Access, 6, 49646-49653, 2018. (SCI: 000446493200001, JCR-1区)     </p>
 </li>
 </ul>
 <ul>
-<li><p>[8].	Guang Yang, Jingwei Yin, Yun Yu, Zhenhua Shi. “Depth classification of underwater targets based on complex acoustic intensity of normal modes [J],” Journal of Ocean University of China, vol.15, no.2, pp. 241-246, 2016. (SCI: 000376023500006, JCR-3区)      </p>
+<li><p>[8].	<b>Guang Yang</b>, Jingwei Yin, Yun Yu, Zhenhua Shi. “Depth classification of underwater targets based on complex acoustic intensity of normal modes [J],” Journal of Ocean University of China, vol.15, no.2, pp. 241-246, 2016. (SCI: 000376023500006, JCR-3区)      </p>
 </li>
 </ul>
 <ul>
-<li><p>[9].	Jingwei Yin, Guang Yang*, Defeng Huang, Lu Jin, Qinghua Guo. “Blind adaptive multi-user detection for under-ice acoustic communications with mobile interfering users [J],” Journal of the Acoustical Society of America, vol.141, no.1, pp. EL70-EL75, 2017, 水声工程顶刊. (SCI: 000395308700013, JCR-1区)    </p>
+<li><p>[9].	Jingwei Yin, <b>Guang Yang*</b>, Defeng Huang, Lu Jin, Qinghua Guo. “Blind adaptive multi-user detection for under-ice acoustic communications with mobile interfering users [J],” Journal of the Acoustical Society of America, vol.141, no.1, pp. EL70-EL75, 2017, 水声工程顶刊. (SCI: 000395308700013, JCR-1区)    </p>
 </li>
 </ul>
 <ul>
-<li><p>[10].	杨光, 葛威，韩笑, 郑茂醇. 基于KF和虚拟技术的最优盲水声信道均衡. 华中科技大学学报[J]. 47(6): 69-72. 2019. (EI: 20193907468587) <br />
-Guang Yang, Wei Ge, Xiao Han, Maochun Zheng. “Blind adaptive channel equalization algorithm for underwater acoustic communication based on KF and virtual technology [J],” Journal of Huazhong University of Science and Technology (Natural Science Edition), 47(6): 69-72, 2019. (EI: 20193907468587) 
+<li><p>[10].	<b>杨光</b>, 葛威，韩笑, 郑茂醇. 基于KF和虚拟技术的最优盲水声信道均衡. 华中科技大学学报[J]. 47(6): 69-72. 2019. (EI: 20193907468587) <br />
+<b>Guang Yang</b>, Wei Ge, Xiao Han, Maochun Zheng. “Blind adaptive channel equalization algorithm for underwater acoustic communication based on KF and virtual technology [J],” Journal of Huazhong University of Science and Technology (Natural Science Edition), 47(6): 69-72, 2019. (EI: 20193907468587) 
   </p>
 </li>
 </ul>
-<h2>教育经历</h2>
+<h2>奖励</h2>
 <ul>
 <li><p>2020年                 国家留学基金委             全国海选博士后（首例/全校，2年）</p>
 <li><p>2018年                 青岛西海岸新区                   紧缺人才（6人/2年）</p>
@@ -123,7 +123,6 @@ Guang Yang, Wei Ge, Xiao Han, Maochun Zheng. “Blind adaptive channel equalizat
 </ul>
 <div id="footer">
 <div id="footer-text">
-<br>Page generated 2021-09-18, by <a href="https://xuaikun.github.io/">Aikun Xu</a>.
 </div>
 </div>
 </div>
