@@ -1,16 +1,17 @@
-</head>
-<body>
-<div id="layout-content">
-<div id="toptitle">
-<h1>杨光 (Guang Yang)</h1>
-</div>
-<table class="imgtable"><tr><td>
-  <img src="photo.JPG" width="150px"  /></a>&nbsp;</td>
-<td align="left"><p>男，1981年生，党员，硕士生导师，讲师。博士毕业于哈尔滨工程大学水声工程学院水声工程专业，CSC全国海选新加坡南洋理工大学博士后，CSC国家公派西澳大学联培博士。<br />
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="/photo.JPG" width="100%"> 
+    </td>
+        <td width="75%">
+      <h1>杨光</h1>
+<p>男，1981年生，党员，硕士生导师，讲师。博士毕业于哈尔滨工程大学水声工程学院水声工程专业，CSC全国海选新加坡南洋理工大学博士后，CSC国家公派西澳大学联培博士。<br />
 手机: 13969816066  <br />
 邮箱: edit231@163.com   <br />
 <br />
-</td></tr></table>
+    </td>
+  </tr>
+</table>
 <p>现为国家自然科学基金评审专家，IEEE Sensors Journal，SCIENCE CHINA Information Sciences等SCI期刊审稿人，青岛西海岸新区梧桐树聚才计划。从事运动海洋通信、智能海洋通信的研究。近5年，主持基金6项，其中国防科技创新特区项目（原国家863计划军口项目）1项、国家自然科学基金常规面上项目1项，获批国家和省市级纵向经费约为129万。参与863计划重大项目等多项项目。已完成HX产品级海洋通信技术，海水中5.5 km可靠运动通信，带宽利用率0.94 bps/Hz。已发表SCI/EI论文近30篇。   
 <h2>教育经历</h2>
 <ul>
@@ -119,5 +120,4 @@
 </div>
 </div>
 </div>
-</body>
 </html>
